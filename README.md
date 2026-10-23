@@ -32,8 +32,8 @@ A modern, full-stack URL shortener built with the MERN stack. Designed with a fo
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/keepgrowingbus123/link-vault-url-shortener.git
-cd link-vault-url-shortener
+git clone https://github.com/keepgrowingbus123/CodeIO-Pranav.git
+cd CodeIO-Pranav
 \`\`\`
 
 **2. Backend Configuration**
@@ -43,7 +43,7 @@ npm install
 \`\`\`
 Create a `.env` file in the `backend` directory and add your MongoDB URI:
 \`\`\`env
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=mongodb+srv://keepgrowingbus123_db_user:UEoBArAOfjDybM6m@cluster0.89wcasc.mongodb.net/
 \`\`\`
 Start the server:
 \`\`\`bash
