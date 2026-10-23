@@ -43,7 +43,7 @@ npm install
 \`\`\`
 Create a `.env` file in the `backend` directory and add your MongoDB URI:
 \`\`\`env
-MONGO_URI=mongodb+srv://keepgrowingbus123_db_user:UEoBArAOfjDybM6m@cluster0.89wcasc.mongodb.net/
+MONGO_URI=decided to keep it private
 \`\`\`
 Start the server:
 \`\`\`bash
