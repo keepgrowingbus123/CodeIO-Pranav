@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import ParticleBackground from './ParticleBackground.jsx'
 
-const API_URL = 'http://localhost:5000'
+const API_URL = 'https://codeio-pranav.onrender.com'
 
 export default function App() {
   const [isDarkMode, setIsDarkMode] = useState(true)
